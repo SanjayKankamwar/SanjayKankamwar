@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate on DevOps automation projects, system architecture designs, and full-stack CI/CD pipelines
 
-📫 How to reach me: sanjaykankamwar.dev@gmail.com or LinkedIn
+📫 How to reach me: [Gmail](sanjaykankamwar6008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sanjaykankamwar/)
 
 😄 Pronouns: he/him
 
