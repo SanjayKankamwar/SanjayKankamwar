@@ -1,16 +1,17 @@
-👋 Hi, I’m @SanjayKankamwar
-👀 I’m interested in DevOps, Cloud Infrastructure, CI/CD Pipelines, and Open Source Projects
+👋 Hi, I’m **@SanjayKankamwar**
 
-🌱 I’m currently learning Grafana Stack, Kubernetes, and advanced Jenkins workflows
+👀 I’m passionate about **DevOps, Cloud Infrastructure, CI/CD Pipelines**, and building scalable systems.
 
-💞️ I’m looking to collaborate on DevOps automation projects, system architecture designs, and full-stack CI/CD pipelines
+🌱 Currently exploring deeper into **Grafana Stack, Kubernetes (EKS), Jenkins**, and **cloud-native monitoring** tools.
 
-📫 How to reach me: [Gmail](sanjaykankamwar6008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sanjaykankamwar/)
+💼 I've worked on projects involving:
+- Full-stack **CI/CD pipelines** using Jenkins, Docker, SonarQube, and Kubernetes
+- **Cloud deployments** on AWS with secure credential management
+- **Centralized logging & monitoring** using Logstash, Elasticsearch, and Grafana
+- Resume sorting using **NLP, Flask**, and **MERN stack** with MongoDB
 
-😄 Pronouns: he/him
+💞️ I’m looking to collaborate on **DevOps automation**, **cloud-native app deployment**, and **open source infrastructure tools**.
 
-⚡ Fun fact: I’ve built a full DevOps pipeline that scans, tests, deploys, and even emails build reports — all from scratch!
-<!---
-SanjayKankamwar/SanjayKankamwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: [Gmail](mailto:sanjaykankamwar6008@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanjaykankamwar/) | [GitHub](https://github.com/SanjayKankamwar)
+
+⚡ Fun fact: I built a production-ready DevOps pipeline from scratch that handles code checkout, scanning, testing, Dockerization, Kubernetes deployment, and sends build reports via email!
