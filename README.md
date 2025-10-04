@@ -1,44 +1,84 @@
-👋 Hi, I’m @SanjayKankamwar
+Sanjay Kankamwar
+Software Engineer specializing in Full-Stack Development, Cloud Infrastructure, and Production-Grade Systems
 
-👀 I’m passionate about DevOps, Cloud Infrastructure, CI/CD Pipelines, Data Analytics, and building scalable systems that are secure, efficient, and production-ready.
+Technical Expertise
+Programming Languages: Python, JavaScript, TypeScript, HTML/CSS, Node.js
 
-🛠️ Experienced in:
+Frameworks & Libraries: Flask, Django, Next.js, Express.js
 
-Designing and maintaining end-to-end CI/CD pipelines using Jenkins, Docker, SonarQube, and Kubernetes
+Databases: PostgreSQL, MongoDB, MySQL, Supabase
 
-Deploying cloud-native applications on AWS, with focus on IAM, EC2, S3, and secure credential management
+DevOps & Cloud: AWS, Docker, Jenkins, Kubernetes, CI/CD Pipelines, Render Platform
 
-Implementing centralized logging and monitoring with Logstash, Elasticsearch, and Grafana
+Developer Tools: Git/GitHub, VS Code, Jupyter Notebook
 
-Building data analytics pipelines for log/metric analysis and interactive visualizations using Pandas, Seaborn, Matplotlib, and Grafana
+Professional Experience
+Software Engineer at Raam Group
+June 2025 – Present | Hyderabad, India
 
-Developing web systems with Flask, MongoDB, React, and Node.js, with applied NLP techniques for text-based applications
+Design, develop, and deploy responsive web applications with complete Software Development Life Cycle ownership
 
-📊 Highlighted Projects:
+Built and maintain production CRM and HR management systems serving multiple automotive dealerships
 
-🎲 BoardGame CI/CD Pipeline
-A production-grade Jenkins pipeline with Git integration, Maven builds, static and image scans (SonarQube, Trivy), Nexus publishing, Dockerization, Kubernetes deployment, and email reporting.
+Execute large-scale data migration projects ensuring seamless transitions and data integrity across systems
 
-📦 Unbox Robotics DevOps Assignment
-End-to-end setup of a log collection and visualization pipeline (excluding Loki) on AWS EC2, fully Dockerized and automated using Jenkins CI/CD.
+Automate lead management workflows for dealership operations using modern web technologies
 
-🗺️ YelpCamp CI/CD Pipeline
-Automated deployment of a Node.js web app with Jenkins, GitHub integration, Docker, SonarQube, Trivy scans, and Kubernetes. Emphasized security, testing, and pipeline observability.
+Collaborate with cross-functional teams to deliver high-quality software solutions
 
-📈 RTO Market Intelligence – Telangana
-Developed a 2-page strategic analytics report from a 2GB vehicle registration dataset (2019–2025) to support dealership planning with regional insights and top-performing brands/models.
+Featured Projects
+EpicLeads CRM System
+Live at: www.epicleads.in
 
-🧠 Resume Sorting Portal
-Built a resume classification system using NLP, Flask, and the MERN stack to automate candidate shortlisting based on skillset and role fit.
+Technology Stack: PostgreSQL, Supabase, Flask, HTML, CSS, JavaScript
 
-🌐 Indian Tourism Forecasting
-Applied Linear Regression, Facebook Prophet, and LSTM (Keras/TensorFlow) to model and forecast tourism trends across Indian states. Full pipeline included preprocessing, visualization, and comparative model evaluation.
+Comprehensive lead management system designed for automotive dealerships featuring real-time lead tracking and automated workflows. Successfully deployed for Ather Chennai, Ather Hyderabad, and Honda Hyderabad with 99% uptime.
 
-💞️ Looking to collaborate on:
-Cloud-native systems, DevOps automation, data-driven optimization, and scalable infrastructure projects.
+Key Achievements:
 
-📫 Connect with me:
-📧 sanjaykankamwar6008@gmail.com
-🔗 LinkedIn
-🐙 GitHub
+Reduced lead response time by 60% through automated workflows and intelligent routing
 
+Implemented secure authentication and role-based access control for multi-user environments
+
+Developed detailed analytics dashboard providing actionable business insights
+
+Streamlined lead conversion processes improving customer acquisition rates
+
+EpicHR Management System
+Live at: epichr.netlify.app
+
+Technology Stack: PostgreSQL, Supabase, Django, TypeScript, Next.js
+
+Full-stack HR management platform handling complete employee lifecycle including payroll, attendance, and performance tracking. Built with modern TypeScript and Next.js frontend ensuring seamless cross-device experience.
+
+Key Features:
+
+Automated reporting with data visualization for HR analytics and decision support
+
+Integrated employee management covering recruitment, onboarding, and performance reviews
+
+Deployed on Render platform with automated CI/CD pipeline serving active users across Raam Group
+
+Responsive design optimized for desktop, tablet, and mobile interfaces
+
+Education
+Bachelor of Technology in Information Technology
+Vishwakarma Institute of Information Technology, Pune
+Current CGPA: 7.9 | Expected Graduation: August 2026
+
+Relevant Coursework: IBM Full Stack Development, DevOps, Cloud Computing, Database Management Systems, Human Computer Interaction
+
+Professional Certifications
+IBM Full Stack Software Developer Professional Certificate – Coursera, 2024
+
+AWS Academy Graduate - AWS Academy Cloud Foundations – AWS Academy, 2024
+
+Introduction to Containers with Docker, Kubernetes & OpenShift – Coursera, 2024
+
+Areas of Interest
+Full-stack web development, Cloud-native systems, DevOps automation, Database optimization, API integrations, Scalable infrastructure design
+
+Contact Information
+Email: sanjaykankamwar@gmail.com
+LinkedIn: linkedin.com/in/sanjaykankamwar
+GitHub: github.com/SanjayKankamwar
