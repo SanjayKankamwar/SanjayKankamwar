@@ -59,7 +59,7 @@ A full-stack HR management platform covering payroll, attendance, and performanc
 
 **Bachelor of Technology in Information Technology**  
 Vishwakarma Institute of Information Technology, Pune  
-*Current CGPA: 7.9 | Expected Graduation: August 2026*  
+*Current CGPA: 7.92 | Expected Graduation: August 2026*  
 
 **Relevant Coursework:** IBM Full Stack Development, DevOps, Cloud Computing, Database Management Systems, Human Computer Interaction  
 
