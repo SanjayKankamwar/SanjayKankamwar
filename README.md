@@ -1,8 +1,6 @@
 # Sanjay Kankamwar  
-** Associate Software Engineer at ACQUIA **
+Associate Software Engineer at ACQUIA
 
-
----
 
 ## Contact Information  
 **Email:** [sanjaykankamwar@gmail.com](mailto:sanjaykankamwar@gmail.com)  
